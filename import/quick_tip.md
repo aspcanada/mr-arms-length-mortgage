@@ -1,0 +1,1 @@
+If you are interested in this sophisticated investment strategy but currently do not have an RRSP, you could convert some of your under-performing investments into cash and then put that money into an RRSP which could get you an immediate tax refund.
