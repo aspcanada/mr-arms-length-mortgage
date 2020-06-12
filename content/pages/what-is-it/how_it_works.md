@@ -1,4 +1,10 @@
-HOW IT WORKS?
+---
+title: "How It Works?"
+slug: what-is-it/how-it-works
+# cover: ./cover.png
+disqus: false
+unlisted: true
+---
 
 I give you a step-by-step guide to setting these up. You will get FULL access to how-to videos and sample templates & worksheets.
 

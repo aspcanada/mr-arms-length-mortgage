@@ -1,6 +1,8 @@
 ---
-title: "RRSP Mortgage - Deal #RM101"
-date: "2011-10-20"
+title: RRSP Mortgage - Deal \#RM101
+slug: deals/rrsp-mortgage-deal-rm101
+date: 2011-10-20
+unlisted: true
 ---
 
 \[box type="alert"\]This deal is now closed. If you've missed out, please sign up to our mailing list and be the first to hear about upcoming deals!\[/box\]

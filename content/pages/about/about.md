@@ -5,8 +5,6 @@ slug: about-me
 disqus: false
 ---
 
-# About Me
-
 Hi there, my name is Alain St. Pierre, founder of Mr. Arm’s Length Mortgage and ASP Canada Real Estate Group.  My passion is to teach Canadians how to invest in mortgages using their RRSP’s (and other registered accounts). I’ve become the defacto “Arm’s Length Mortgage” guy, as Ranked #1 on Google and I receive 500+ hits per month on my blog.
 
 I have experience in putting together RRSP mortgages and other creative financing strategies. I currently own 5 doors across Western Canada and continue to add to my personal real estate portfolio.

@@ -27,6 +27,14 @@ module.exports = {
   headerLinksIcon: '', //  (leave empty to disable: '')
   headerLinks: [
     {
+      label: 'What Is It?',
+      url: '/what-is-it',
+    },
+    {
+      label: 'Benefits',
+      url: '/what-is-it/benefits-features-in-an-arms-length-mortgage',
+    },
+    {
       label: 'Blog',
       url: '/',
     },
@@ -35,9 +43,10 @@ module.exports = {
       url: '/about-me',
     },
     {
-      label: 'Installation',
-      url: '/how-to-install',
+      label: 'Contact',
+      url: '/contact-me/expression-of-interest-form',
     },
+    
   ],
   // Footer information (ex: Github, Netlify...)
   websiteHost: {
@@ -57,8 +66,8 @@ module.exports = {
           url: '/about-me',
         },
         {
-          label: 'Installation',
-          url: '/how-to-install',
+          label: 'What Is It?',
+          url: '/what-is-it',
         },
       ],
     },

@@ -1,17 +1,11 @@
-BENEFITS & FEATURES
-Some of the benefits that Investors enjoy are:
-
-- Higher Returns
-- Secured Investment
-- Easy Retirement Planning
-
-Read More
-
+---
+title: Benefits & Features
+slug: what-is-it/benefits-features-in-an-arms-length-mortgage
+# cover: ./cover.png
+disqus: false
 ---
 
-# Benefits & Features
-
-## The BENEFITS for YOU, the INVESTOR
+# The BENEFITS for YOU, the INVESTOR
 
 An Arm’s Length Mortgage provides many excellent benefits for the person interested in turning their RRSP money into one or more mortgages, such as:
 
@@ -26,7 +20,8 @@ Pre-Defined Investment Terms You know precisely when your investment money is no
 - Contribution Limits are NOT Affected The repayments back into your RRSP do not affect your contribution limits for the year—the money is simply being returned to you—along with the interest.
 - Wash, Rinse and REPEAT Best of all, when the invested money is returned to your RRSP, you have full control over what you want to invest the money in again—either another mortgage, or conventional instruments such as GIC’s bonds, stock or mutual funds.
 
-## The FEATURES for YOU, the INVESTOR
+### The FEATURES for YOU, the INVESTOR
+
 - This investment strategy is fully approved by the Canada Revenue Agency.
 - There are no set-up fees for you, the lender (when over $25,000 is invested).
 - The whole process takes place under the RRSP umbrella and profits remain tax sheltered.
@@ -38,4 +33,17 @@ Pre-Defined Investment Terms You know precisely when your investment money is no
 - All the documentation is prepared by a reputable law firm.
 - The terms of the mortgage can be very flexible. You (as the Investor) act as the ‘bank’ and as long as YOU are happy with the repayment arrangements that’s all that matters—there’s no 3rd party who will approve or disapprove the deal. It’s all up to you — YOU decide how, when and to whom you want to lend your money. YOU ARE IN COMPLETE CONTROL!
 
-[Who's Involved >]
+<br />
+<a href="/what-is-it/whos-all-involved/" class="center">Who's All Involved? »</a>
+
+<!-- 
+BENEFITS & FEATURES
+Some of the benefits that Investors enjoy are:
+
+- Higher Returns
+- Secured Investment
+- Easy Retirement Planning
+
+Read More
+
+----->

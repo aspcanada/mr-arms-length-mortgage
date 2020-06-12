@@ -1,6 +1,12 @@
-# Am I Qualified?
+---
+title: Am I Qualified?
+slug: what-is-it/am-i-qualified
+# cover: ./cover.png
+disqus: false
+---
 
-## WHO qualifies as a potential “RRSP-Mortgage” investor?
+# WHO qualifies as a potential “RRSP-Mortgage” investor?
+
 There are three basic categories of people qualified to participate in this type of investment. They are:
 
 1. Current RRSP account holder (people who have their RRSP account somewhere already)
@@ -34,4 +40,5 @@ Arm’s Length Mortgages are exactly what the name implies: ARM’S LENGTH—the
 
 If you’d like to learn more or if you would like to invest your RRSPs in other people’s mortgages, please fill out our expression of interest and one of our agents will be in touch with you.
 
-[Interested? Fill out an Expression of interest »]
+<br />
+<a href="/contact-me/expression-of-interest-form/" class="center">Interested? Fill out an Expression of interest »</a>

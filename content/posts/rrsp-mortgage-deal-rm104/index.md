@@ -1,6 +1,8 @@
 ---
-title: "RRSP Mortgage - Deal #RM104"
-date: "2014-07-30"
+title: RRSP Mortgage - Deal \#RM104
+slug: deals/rrsp-mortgage-deal-rm104
+date: 2014-07-30
+unlisted: true
 ---
 
 ![outside1](http://www.mr-arms-length-mortgage.com/wp-content/uploads/2014/07/outside1-300x225.jpg)

@@ -1,17 +1,19 @@
 ---
-title: "RRSP Mortgage – Deal #RM102"
-date: "2011-10-20"
+title: RRSP Mortgage - Deal \#RM-103
+slug: deals/rrsp-mortgage-deal-rm-103
+date: 2012-01-10
+unlisted: true
 ---
 
 \[box type="alert"\]This deal is now closed. If you've missed out, please sign up to our mailing list and be the first to hear about upcoming deals!\[/box\]
 
 ### Summary
 
-This RRSP-eligible mortgage will be placed on a **3-bedroom home** in **Cumberland, BC**. The Comox Valley has some strong fundamentals and will provide plenty of appreciation and security for your investment over the coming years. For more information about investing in the Comox Valley go to [Invest Comox Valley](http://www.investcomoxvalley.com/ "Invest Comox Valley").
+This RRSP-eligible mortgage will be placed on a **2-bedroom condo** in **Chilliwack, BC**. This deal has a strong cash flow component due to it being a Lease-To-Own opportunity with above average rents.
 
 ### Financial Info
 
-**Funds Required:** $15,000 **Interest Rate:** 10% **Interest Earned:** $7500 total; quarterly payments with lump sum at the end **Term:** 5-year open
+**Funds Required:** $20,000 **Annual Interest Rate:** 11% **Interest Earned:** $4400 total; quarterly payments with lump sum at the end **Term:** 2-year open **Loan-To-Value:** <90%
 
 ### Details
 

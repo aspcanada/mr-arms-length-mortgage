@@ -1,6 +1,11 @@
-# Misconceptions
+---
+title: Misconceptions
+slug: what-is-it/misconceptions
+# cover: ./cover.png
+disqus: false
+---
 
-## Important Clarification
+# Important Clarification
 Here is one misconception we encounter often: people think their money is leaving their RRSP and/or they think they are actually loaning the money so the borrower can buy a property. That’s not the case.
 
 Here’s the best analogy I can give you. Visualize your RRSP program as a house. For years, you’ve been adding money to a “duffel bag” that’s stored in your living room where it “rests” — I can’t think of a better term for money that’s earning such small returns.
@@ -13,4 +18,5 @@ Now, the two important things to realize through this analogy are that 1) Your m
 
 I hope this helps you understand this important misconception.
 
-[Find out if you qualify »]
+<br />
+<a href="/what-is-it/am-i-qualified/" class="center">Find out if you qualify »</a>
