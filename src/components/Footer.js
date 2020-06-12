@@ -85,7 +85,7 @@ const FooterWrapper = styled.footer`
 `
 
 const Footer = () => {
-  const { authorName, websiteHost, footerLinks } = useSiteMetadata()
+  const { siteTitle, websiteHost, footerLinks } = useSiteMetadata()
 
   const FooterItem = ({ item }) => {
     if (item.url.startsWith('/')) {
@@ -126,7 +126,7 @@ const Footer = () => {
       <nav>
         <div className="footer-col">
           <h3 className="footer-title">
-            {authorName} © {new Date().getFullYear()}
+            {siteTitle} © {new Date().getFullYear()}
           </h3>
           <p className="footer-item-text">
             Built with{' '}
