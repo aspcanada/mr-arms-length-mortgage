@@ -16,7 +16,6 @@ const RelatedPosts = props => {
         return (
           <li key={slug}>
             <StyledLink to={`/${slug}`}>
-              {defaultLang !== language && <Flag language={language} />}
               {title}
             </StyledLink>
           </li>
