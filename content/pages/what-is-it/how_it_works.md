@@ -18,19 +18,19 @@ Below are the several steps, documents and timing required in order to set up an
 ## 1. Fill out an Investor Expression of Interest Form
 This allows us to get to know a little more about you and what you are looking for in an investment.
 
-Timing: 15 minutes<br>
+Timing: 15 minutes<br />
 Form: Expression of Interest
 
 ## 2. We conduct a brief telephone interview
 We like to get to know our potential investors, so we like to follow up with a brief call.
 
-Timing: 15-20 minutes<br>
+Timing: 15-20 minutes<br />
 
 ## 3. We send you the Investment Package
 
 ## 4. Fill out an Investor Mortgage Commitment Letter
 
-Timing: 15 minutes<br>
+Timing: 15 minutes<br />
 Form: Mortgage Commitment
 
 ## 5. Sign up for a Self-Directed RRSP account
@@ -42,7 +42,7 @@ All RRSP mortgages must be held in a registered (RRSP, TFSA, RRIF, LIRA, etc) se
 
 Either of these institutions will work, however, I recommend Olympia Trust as I know their processes in and out. Please note that it can take up to 3 days to get the account up and running.
 
-Timing: 2-3 days<br>
+Timing: 2-3 days<br />
 Form: Olympia Trust RRSP Application
 
 ## 6. Liquidate existing investments to “cash”
@@ -52,12 +52,12 @@ Timing: 1-2 weeks (depending on financial institution)
 
 ## 7. Transfer “cash” to the new Self-Directed RRSP account
 
-Timing: 2-6 weeks<br>
+Timing: 2-6 weeks<br />
 Forms: Olympia Transfer Form
 
 ## 8. Negotiate the terms of the mortgage
 
-Timing: 1-2 days<br>
+Timing: 1-2 days<br />
 Forms: ASP Canada Mortgage Worksheet
 
 ## 9. Get independent legal and accounting advice
