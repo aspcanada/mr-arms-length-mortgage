@@ -4,7 +4,7 @@ slug: td-waterhouse-closes-doors-on-arms-length-mortgages-effective-april-12-201
 date: 2012-03-27
 ---
 
-![](http://www.mr-arms-length-mortgage.com/wp-content/uploads/2012/03/tdwaterhouse.jpg "tdwaterhouse")
+![](./tdwaterhouse.jpg "tdwaterhouse")
 
 Wow! The biggest trustee in Canada to offer ALMs is no longer doing them effective April 17, 2012. Many of my readers, subscribers, followers and fans have come to me and asked why TD Waterhouse is doing this? Well, I had to get to the bottom of it and I called TDW to find out. I spoke to Matt at the Self Directed RRSP dept and he was not able to provide me with any written documentation, but he was able to read the document to me. Luckily for you, I recorded the call. It boils down to the [increased compliance monitoring by the CRA](http://www.cra-arc.gc.ca/tx/ndvdls/tpcs/rrsp-reer/schms/gncy-eng.html) with respect to qualified investments within one's RRSP. Please check out the audio call here \[link removed\].
 
