@@ -1,8 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import Flag from './Flag/Flag'
 import TagList from './TagList'
-import useSiteMetadata from '../hooks/use-site-config'
 import styled from 'styled-components'
 import { colors } from '../tokens'
 import { Bull, ReadingTime } from './Commons'
@@ -52,8 +50,7 @@ const FooterLine = styled.div`
 `
 
 const PostsListItem = props => {
-  const { title, excerpt, slug, language, tags, timeToRead } = props
-  const { defaultLang } = useSiteMetadata()
+  const { title, excerpt, slug, tags, timeToRead } = props
 
   return (
     <Post>

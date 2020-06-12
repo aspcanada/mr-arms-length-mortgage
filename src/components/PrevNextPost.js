@@ -5,7 +5,6 @@ import { colors } from '../tokens'
 import useSiteMetadata from '../hooks/use-site-config'
 import useSiteImages from '../hooks/use-site-images'
 import TagList from './TagList'
-import Flag from './Flag/Flag'
 import { ReadingTime, Bull } from './Commons'
 
 const PreviewContainer = styled.aside`
@@ -72,7 +71,7 @@ const PreviewContent = styled.div`
 const PrevNextPost = props => {
   const { previous, next } = props
   const articles = [previous, next].filter(i => i).map(item => ({ node: item }))
-  const { siteCover, defaultLang } = useSiteMetadata()
+  const { siteCover } = useSiteMetadata()
   const { fluid } = useSiteImages(siteCover)
 
   return (
@@ -85,7 +84,6 @@ const PrevNextPost = props => {
             cover,
             title,
             slug,
-            language,
           } = article.node.frontmatter
           const heroImg = (cover && cover.publicURL) || fluid.src
 
