@@ -44,8 +44,7 @@ module.exports = {
     },
     {
       label: 'Contact',
-      url: '/contact-me/contact',
-      // url: '/contact-me/expression-of-interest-form',
+      url: '/contact-me/expression-of-interest-form',
     },
     
   ],
